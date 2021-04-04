@@ -1,0 +1,27 @@
+.main{
+    border: 2px solid palevioletred;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(80, 68, 68);
+}
+.result{
+    width: 95%;
+    background-color: rgb(184, 182, 182);
+    color: #fff;
+}
+.clearbtn{
+    width: 99%;
+    margin-top: 5px;
+    background-color: pink;
+    margin: 1px;
+}
+.btn{
+    background-color: olive;
+    width: 45px;
+    margin: 1px;
+}
+.halfbtn{
+    background-color: pink;
+    width: 96px;
+    margin: 1px;
+}
